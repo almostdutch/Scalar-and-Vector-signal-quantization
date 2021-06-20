@@ -1,4 +1,4 @@
-This demo shows how to do scalar (scalar_quantization/demo_scalar_quantization.py) and vector (vector_quantization/demo_vector_quantization.py) signal quantization <br/>
+This demo shows how to do scalar (scalar_quantization/demo_scalar_quantization.py) and vector (vector_quantization/demo_vector_quantization.py) signal quantization. Signal can come from any of the following probability distributions: uniform, exponential, gamma, rayleigh, and normal <br/>
 
 **Scalar quantization examples:**<br/>
 <p align="center">
